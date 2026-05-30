@@ -18,5 +18,5 @@ to identify the best value cities for professionals worldwide.
 - `cost_of_living_vs_salary.csv` - Raw dataset
 - `Cost_of_Living_Analysis.pbix` - Power BI Dashboard
 
-##Dashboard Preview
-![Dashboard](Cost of Living SS.png)
+## Dashboard Preview
+![Dashboard](Cost_of_Living_SS.png)
